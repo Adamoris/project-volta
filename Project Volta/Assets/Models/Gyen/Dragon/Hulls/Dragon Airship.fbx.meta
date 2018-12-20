@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 5133b1924ac515c47ac191735ac1d926
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Antenna Mast
+    100002: Crows Nest
+    100004: Cube.001
+    100006: //RootNode
+    100008: Elevator
+    100010: Envelope
+    100012: External Structure
+    100014: Front Gun Platform
+    100016: Gondola
+    100018: Headlights
+    100020: IAS Sensor
+    100022: Midship Gun Platform
+    100024: Propeller 1
+    100026: Propeller 2
+    100028: Rear Gunner Platform
+    100030: Rudder
+    100032: Turbine 1
+    100034: Turbine 2
+    100036: TurboShaft 1
+    100038: TurboShaft 2
+    100040: Turboshaft Geartrain
+    100042: Windows
+    400000: Antenna Mast
+    400002: Crows Nest
+    400004: Cube.001
+    400006: //RootNode
+    400008: Elevator
+    400010: Envelope
+    400012: External Structure
+    400014: Front Gun Platform
+    400016: Gondola
+    400018: Headlights
+    400020: IAS Sensor
+    400022: Midship Gun Platform
+    400024: Propeller 1
+    400026: Propeller 2
+    400028: Rear Gunner Platform
+    400030: Rudder
+    400032: Turbine 1
+    400034: Turbine 2
+    400036: TurboShaft 1
+    400038: TurboShaft 2
+    400040: Turboshaft Geartrain
+    400042: Windows
+    2100000: No Name
+    2300000: Antenna Mast
+    2300002: Crows Nest
+    2300004: Cube.001
+    2300006: Elevator
+    2300008: Envelope
+    2300010: External Structure
+    2300012: Front Gun Platform
+    2300014: Gondola
+    2300016: Headlights
+    2300018: IAS Sensor
+    2300020: Midship Gun Platform
+    2300022: Propeller 1
+    2300024: Propeller 2
+    2300026: Rear Gunner Platform
+    2300028: Rudder
+    2300030: Turbine 1
+    2300032: Turbine 2
+    2300034: TurboShaft 1
+    2300036: TurboShaft 2
+    2300038: Turboshaft Geartrain
+    2300040: Windows
+    3300000: Antenna Mast
+    3300002: Crows Nest
+    3300004: Cube.001
+    3300006: Elevator
+    3300008: Envelope
+    3300010: External Structure
+    3300012: Front Gun Platform
+    3300014: Gondola
+    3300016: Headlights
+    3300018: IAS Sensor
+    3300020: Midship Gun Platform
+    3300022: Propeller 1
+    3300024: Propeller 2
+    3300026: Rear Gunner Platform
+    3300028: Rudder
+    3300030: Turbine 1
+    3300032: Turbine 2
+    3300034: TurboShaft 1
+    3300036: TurboShaft 2
+    3300038: Turboshaft Geartrain
+    3300040: Windows
+    4300000: Cube.001
+    4300002: Windows
+    4300004: TurboShaft 1
+    4300006: Crows Nest
+    4300008: Rear Gunner Platform
+    4300010: Turboshaft Geartrain
+    4300012: Turbine 1
+    4300014: Propeller 1
+    4300016: Envelope
+    4300018: Turbine 2
+    4300020: External Structure
+    4300022: Propeller 2
+    4300024: Rudder
+    4300026: Front Gun Platform
+    4300028: Midship Gun Platform
+    4300030: Elevator
+    4300032: Antenna Mast
+    4300034: TurboShaft 2
+    4300036: Headlights
+    4300038: Gondola
+    4300040: IAS Sensor
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

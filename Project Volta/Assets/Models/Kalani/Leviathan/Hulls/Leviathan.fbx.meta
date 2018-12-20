@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: 24d27c478ba601645815bd00110efa34
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Air Intake
+    100002: Air Raid Siren Fan
+    100004: Air Raid Siren Housing
+    100006: Doors
+    100008: Drive Prop 1
+    100010: Drive Prop 10
+    100012: Drive Prop 11
+    100014: Drive Prop 12
+    100016: Drive Prop 13
+    100018: Drive Prop 14
+    100020: Drive Prop 15
+    100022: Drive Prop 16
+    100024: Drive Prop 17
+    100026: Drive Prop 18
+    100028: Drive Prop 19
+    100030: Drive Prop 2
+    100032: Drive Prop 20
+    100034: Drive Prop 3
+    100036: Drive Prop 4
+    100038: Drive Prop 5
+    100040: Drive Prop 6
+    100042: Drive Prop 7
+    100044: Drive Prop 8
+    100046: Drive Prop 9
+    100048: Elevators
+    100050: Exauhst
+    100052: External Frame
+    100054: Front Antenna
+    100056: Front Canards
+    100058: Gun Mounts
+    100060: Horns
+    100062: Hull
+    100064: Left Rudder 1
+    100066: Left Rudder 2
+    100068: Left Rudder 3
+    100070: //RootNode
+    100072: Lift Prop 1
+    100074: Lift Prop 2
+    100076: Lift Prop 3
+    100078: Lift Prop 4
+    100080: Lift Prop 5
+    100082: Lift Prop 6
+    100084: Port Holes
+    100086: Rear Antenna
+    100088: Right Rudder 1
+    100090: Right Rudder 2
+    100092: Right Rudder 3
+    100094: Superstructure
+    100096: Windows
+    400000: Air Intake
+    400002: Air Raid Siren Fan
+    400004: Air Raid Siren Housing
+    400006: Doors
+    400008: Drive Prop 1
+    400010: Drive Prop 10
+    400012: Drive Prop 11
+    400014: Drive Prop 12
+    400016: Drive Prop 13
+    400018: Drive Prop 14
+    400020: Drive Prop 15
+    400022: Drive Prop 16
+    400024: Drive Prop 17
+    400026: Drive Prop 18
+    400028: Drive Prop 19
+    400030: Drive Prop 2
+    400032: Drive Prop 20
+    400034: Drive Prop 3
+    400036: Drive Prop 4
+    400038: Drive Prop 5
+    400040: Drive Prop 6
+    400042: Drive Prop 7
+    400044: Drive Prop 8
+    400046: Drive Prop 9
+    400048: Elevators
+    400050: Exauhst
+    400052: External Frame
+    400054: Front Antenna
+    400056: Front Canards
+    400058: Gun Mounts
+    400060: Horns
+    400062: Hull
+    400064: Left Rudder 1
+    400066: Left Rudder 2
+    400068: Left Rudder 3
+    400070: //RootNode
+    400072: Lift Prop 1
+    400074: Lift Prop 2
+    400076: Lift Prop 3
+    400078: Lift Prop 4
+    400080: Lift Prop 5
+    400082: Lift Prop 6
+    400084: Port Holes
+    400086: Rear Antenna
+    400088: Right Rudder 1
+    400090: Right Rudder 2
+    400092: Right Rudder 3
+    400094: Superstructure
+    400096: Windows
+    2100000: No Name
+    2100002: Mat.003
+    2100004: Mat
+    2100006: Mat.001
+    2100008: Mat.017
+    2100010: Mat.011
+    2100012: Mat.012
+    2100014: Mat.013
+    2100016: Mat.014
+    2100018: Mat.015
+    2100020: Mat.016
+    2300000: Air Intake
+    2300002: Air Raid Siren Fan
+    2300004: Air Raid Siren Housing
+    2300006: Doors
+    2300008: Drive Prop 1
+    2300010: Drive Prop 10
+    2300012: Drive Prop 11
+    2300014: Drive Prop 12
+    2300016: Drive Prop 13
+    2300018: Drive Prop 14
+    2300020: Drive Prop 15
+    2300022: Drive Prop 16
+    2300024: Drive Prop 17
+    2300026: Drive Prop 18
+    2300028: Drive Prop 19
+    2300030: Drive Prop 2
+    2300032: Drive Prop 20
+    2300034: Drive Prop 3
+    2300036: Drive Prop 4
+    2300038: Drive Prop 5
+    2300040: Drive Prop 6
+    2300042: Drive Prop 7
+    2300044: Drive Prop 8
+    2300046: Drive Prop 9
+    2300048: Elevators
+    2300050: Exauhst
+    2300052: External Frame
+    2300054: Front Antenna
+    2300056: Front Canards
+    2300058: Gun Mounts
+    2300060: Horns
+    2300062: Hull
+    2300064: Left Rudder 1
+    2300066: Left Rudder 2
+    2300068: Left Rudder 3
+    2300070: Lift Prop 1
+    2300072: Lift Prop 2
+    2300074: Lift Prop 3
+    2300076: Lift Prop 4
+    2300078: Lift Prop 5
+    2300080: Lift Prop 6
+    2300082: Port Holes
+    2300084: Rear Antenna
+    2300086: Right Rudder 1
+    2300088: Right Rudder 2
+    2300090: Right Rudder 3
+    2300092: Superstructure
+    2300094: Windows
+    3300000: Air Intake
+    3300002: Air Raid Siren Fan
+    3300004: Air Raid Siren Housing
+    3300006: Doors
+    3300008: Drive Prop 1
+    3300010: Drive Prop 10
+    3300012: Drive Prop 11
+    3300014: Drive Prop 12
+    3300016: Drive Prop 13
+    3300018: Drive Prop 14
+    3300020: Drive Prop 15
+    3300022: Drive Prop 16
+    3300024: Drive Prop 17
+    3300026: Drive Prop 18
+    3300028: Drive Prop 19
+    3300030: Drive Prop 2
+    3300032: Drive Prop 20
+    3300034: Drive Prop 3
+    3300036: Drive Prop 4
+    3300038: Drive Prop 5
+    3300040: Drive Prop 6
+    3300042: Drive Prop 7
+    3300044: Drive Prop 8
+    3300046: Drive Prop 9
+    3300048: Elevators
+    3300050: Exauhst
+    3300052: External Frame
+    3300054: Front Antenna
+    3300056: Front Canards
+    3300058: Gun Mounts
+    3300060: Horns
+    3300062: Hull
+    3300064: Left Rudder 1
+    3300066: Left Rudder 2
+    3300068: Left Rudder 3
+    3300070: Lift Prop 1
+    3300072: Lift Prop 2
+    3300074: Lift Prop 3
+    3300076: Lift Prop 4
+    3300078: Lift Prop 5
+    3300080: Lift Prop 6
+    3300082: Port Holes
+    3300084: Rear Antenna
+    3300086: Right Rudder 1
+    3300088: Right Rudder 2
+    3300090: Right Rudder 3
+    3300092: Superstructure
+    3300094: Windows
+    4300000: Horns
+    4300002: Windows
+    4300004: Exauhst
+    4300006: Hull
+    4300008: Left Rudder 3
+    4300010: Front Antenna
+    4300012: Superstructure
+    4300014: Rear Antenna
+    4300016: Lift Prop 2
+    4300018: Lift Prop 4
+    4300020: Lift Prop 6
+    4300022: Lift Prop 1
+    4300024: Lift Prop 3
+    4300026: Lift Prop 5
+    4300028: Drive Prop 8
+    4300030: Drive Prop 7
+    4300032: Drive Prop 6
+    4300034: Drive Prop 2
+    4300036: Drive Prop 4
+    4300038: Drive Prop 5
+    4300040: Drive Prop 3
+    4300042: Drive Prop 1
+    4300044: Drive Prop 15
+    4300046: Drive Prop 16
+    4300048: Drive Prop 18
+    4300050: Drive Prop 17
+    4300052: Drive Prop 19
+    4300054: Drive Prop 20
+    4300056: Port Holes
+    4300058: Drive Prop 10
+    4300060: Drive Prop 11
+    4300062: Drive Prop 12
+    4300064: Drive Prop 14
+    4300066: Drive Prop 13
+    4300068: Drive Prop 9
+    4300070: Left Rudder 2
+    4300072: Left Rudder 1
+    4300074: Right Rudder 3
+    4300076: Right Rudder 2
+    4300078: Right Rudder 1
+    4300080: Elevators
+    4300082: Front Canards
+    4300084: External Frame
+    4300086: Air Intake
+    4300088: Gun Mounts
+    4300090: Doors
+    4300092: Air Raid Siren Housing
+    4300094: Air Raid Siren Fan
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

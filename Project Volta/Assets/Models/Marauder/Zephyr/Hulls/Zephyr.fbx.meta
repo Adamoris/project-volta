@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 2f1191f4c632a9047a5e026af84d4890
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Antenna
+    100002: Blackout Cover
+    100004: Cockpit
+    100006: Elevators
+    100008: Front Left Lifting Propeller
+    100010: Front Right Lifting Propeller
+    100012: Gas Headlight
+    100014: hatch
+    100016: Hull
+    100018: Main Propeller
+    100020: Propeller Mounts
+    100022: Rear Left Lifting Propeller
+    100024: Rear Right Lifting Propeller
+    100026: Rudder
+    100028: Stabilizers
+    100030: Steam Generator & Turbine
+    100032: Windows
+    100034: //RootNode
+    400000: Antenna
+    400002: Blackout Cover
+    400004: Cockpit
+    400006: Elevators
+    400008: Front Left Lifting Propeller
+    400010: Front Right Lifting Propeller
+    400012: Gas Headlight
+    400014: hatch
+    400016: Hull
+    400018: Main Propeller
+    400020: Propeller Mounts
+    400022: Rear Left Lifting Propeller
+    400024: Rear Right Lifting Propeller
+    400026: Rudder
+    400028: Stabilizers
+    400030: Steam Generator & Turbine
+    400032: Windows
+    400034: //RootNode
+    2100000: No Name
+    2300000: Antenna
+    2300002: Blackout Cover
+    2300004: Cockpit
+    2300006: Elevators
+    2300008: Front Left Lifting Propeller
+    2300010: Front Right Lifting Propeller
+    2300012: Gas Headlight
+    2300014: hatch
+    2300016: Hull
+    2300018: Main Propeller
+    2300020: Propeller Mounts
+    2300022: Rear Left Lifting Propeller
+    2300024: Rear Right Lifting Propeller
+    2300026: Rudder
+    2300028: Stabilizers
+    2300030: Steam Generator & Turbine
+    2300032: Windows
+    3300000: Antenna
+    3300002: Blackout Cover
+    3300004: Cockpit
+    3300006: Elevators
+    3300008: Front Left Lifting Propeller
+    3300010: Front Right Lifting Propeller
+    3300012: Gas Headlight
+    3300014: hatch
+    3300016: Hull
+    3300018: Main Propeller
+    3300020: Propeller Mounts
+    3300022: Rear Left Lifting Propeller
+    3300024: Rear Right Lifting Propeller
+    3300026: Rudder
+    3300028: Stabilizers
+    3300030: Steam Generator & Turbine
+    3300032: Windows
+    4300000: Windows
+    4300002: Antenna
+    4300004: Elevators
+    4300006: Stabilizers
+    4300008: Rudder
+    4300010: Steam Generator & Turbine
+    4300012: Front Left Lifting Propeller
+    4300014: Hull
+    4300016: Propeller Mounts
+    4300018: Front Right Lifting Propeller
+    4300020: Rear Right Lifting Propeller
+    4300022: Rear Left Lifting Propeller
+    4300024: Main Propeller
+    4300026: hatch
+    4300028: Blackout Cover
+    4300030: Gas Headlight
+    4300032: Cockpit
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

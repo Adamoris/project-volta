@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: a74ef71990b51784eaf8fa2ee15c5047
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Antenna
+    100002: 'Battery Pack '
+    100004: Blackout Covers
+    100006: Boiler & Steam Turbine
+    100008: Doors
+    100010: Elevator
+    100012: //RootNode
+    100014: Gas Headlights
+    100016: 'Generator '
+    100018: Generator Housing
+    100020: Hull
+    100022: Left Side Propeller
+    100024: Patch Stiches
+    100026: Right Side Propeller
+    100028: Rudder
+    100030: Whistle
+    100032: Windows
+    100034: Wings
+    100036: 'Zeppelin '
+    400000: Antenna
+    400002: 'Battery Pack '
+    400004: Blackout Covers
+    400006: Boiler & Steam Turbine
+    400008: Doors
+    400010: Elevator
+    400012: //RootNode
+    400014: Gas Headlights
+    400016: 'Generator '
+    400018: Generator Housing
+    400020: Hull
+    400022: Left Side Propeller
+    400024: Patch Stiches
+    400026: Right Side Propeller
+    400028: Rudder
+    400030: Whistle
+    400032: Windows
+    400034: Wings
+    400036: 'Zeppelin '
+    2100000: No Name
+    2100002: Mat.003
+    2300000: Antenna
+    2300002: 'Battery Pack '
+    2300004: Blackout Covers
+    2300006: Boiler & Steam Turbine
+    2300008: Doors
+    2300010: Elevator
+    2300012: Gas Headlights
+    2300014: 'Generator '
+    2300016: Generator Housing
+    2300018: Hull
+    2300020: Left Side Propeller
+    2300022: Patch Stiches
+    2300024: Right Side Propeller
+    2300026: Rudder
+    2300028: Whistle
+    2300030: Windows
+    2300032: Wings
+    2300034: 'Zeppelin '
+    3300000: Antenna
+    3300002: 'Battery Pack '
+    3300004: Blackout Covers
+    3300006: Boiler & Steam Turbine
+    3300008: Doors
+    3300010: Elevator
+    3300012: Gas Headlights
+    3300014: 'Generator '
+    3300016: Generator Housing
+    3300018: Hull
+    3300020: Left Side Propeller
+    3300022: Patch Stiches
+    3300024: Right Side Propeller
+    3300026: Rudder
+    3300028: Whistle
+    3300030: Windows
+    3300032: Wings
+    3300034: 'Zeppelin '
+    4300000: 'Zeppelin '
+    4300002: Antenna
+    4300004: Whistle
+    4300006: Windows
+    4300008: Patch Stiches
+    4300010: Rudder
+    4300012: Elevator
+    4300014: Generator Housing
+    4300016: 'Generator '
+    4300018: 'Battery Pack '
+    4300020: Hull
+    4300022: Doors
+    4300024: Left Side Propeller
+    4300026: Wings
+    4300028: Right Side Propeller
+    4300030: Boiler & Steam Turbine
+    4300032: Blackout Covers
+    4300034: Gas Headlights
+    7400000: Generator |Cylinder.010Action.001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

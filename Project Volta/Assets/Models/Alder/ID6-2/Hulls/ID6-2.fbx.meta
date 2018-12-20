@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: a9cfaff4a4ae91c42971f61edf9d5119
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 5 Tone Horn
+    100002: Antenna
+    100004: Bank Stabilizers
+    100006: Blackout Covers
+    100008: Class Identification
+    100010: 'Elevators '
+    100012: Exauhst
+    100014: Headlights
+    100016: Horisontal Stabilizer
+    100018: Hull
+    100020: //RootNode
+    100022: Keel
+    100024: Ladders
+    100026: Left Rudder
+    100028: Lifting Tanks
+    100030: Light Glass
+    100032: Lights
+    100034: Propeller 1
+    100036: Propeller 2
+    100038: Propeller 3
+    100040: Propeller 4
+    100042: Propeller 5
+    100044: Propeller 6
+    100046: Propeller Mounts
+    100048: Right Rudder
+    100050: Windows
+    400000: 5 Tone Horn
+    400002: Antenna
+    400004: Bank Stabilizers
+    400006: Blackout Covers
+    400008: Class Identification
+    400010: 'Elevators '
+    400012: Exauhst
+    400014: Headlights
+    400016: Horisontal Stabilizer
+    400018: Hull
+    400020: //RootNode
+    400022: Keel
+    400024: Ladders
+    400026: Left Rudder
+    400028: Lifting Tanks
+    400030: Light Glass
+    400032: Lights
+    400034: Propeller 1
+    400036: Propeller 2
+    400038: Propeller 3
+    400040: Propeller 4
+    400042: Propeller 5
+    400044: Propeller 6
+    400046: Propeller Mounts
+    400048: Right Rudder
+    400050: Windows
+    2100000: No Name
+    2300000: 5 Tone Horn
+    2300002: Antenna
+    2300004: Bank Stabilizers
+    2300006: Blackout Covers
+    2300008: Class Identification
+    2300010: 'Elevators '
+    2300012: Exauhst
+    2300014: Headlights
+    2300016: Horisontal Stabilizer
+    2300018: Hull
+    2300020: Keel
+    2300022: Ladders
+    2300024: Left Rudder
+    2300026: Lifting Tanks
+    2300028: Light Glass
+    2300030: Lights
+    2300032: Propeller 1
+    2300034: Propeller 2
+    2300036: Propeller 3
+    2300038: Propeller 4
+    2300040: Propeller 5
+    2300042: Propeller 6
+    2300044: Propeller Mounts
+    2300046: Right Rudder
+    2300048: Windows
+    3300000: 5 Tone Horn
+    3300002: Antenna
+    3300004: Bank Stabilizers
+    3300006: Blackout Covers
+    3300008: Class Identification
+    3300010: 'Elevators '
+    3300012: Exauhst
+    3300014: Headlights
+    3300016: Horisontal Stabilizer
+    3300018: Hull
+    3300020: Keel
+    3300022: Ladders
+    3300024: Left Rudder
+    3300026: Lifting Tanks
+    3300028: Light Glass
+    3300030: Lights
+    3300032: Propeller 1
+    3300034: Propeller 2
+    3300036: Propeller 3
+    3300038: Propeller 4
+    3300040: Propeller 5
+    3300042: Propeller 6
+    3300044: Propeller Mounts
+    3300046: Right Rudder
+    3300048: Windows
+    4300000: Exauhst
+    4300002: 5 Tone Horn
+    4300004: Windows
+    4300006: Antenna
+    4300008: Left Rudder
+    4300010: Keel
+    4300012: Ladders
+    4300014: Propeller Mounts
+    4300016: Hull
+    4300018: Propeller 1
+    4300020: Propeller 2
+    4300022: Propeller 3
+    4300024: Propeller 4
+    4300026: Propeller 5
+    4300028: Propeller 6
+    4300030: Right Rudder
+    4300032: Bank Stabilizers
+    4300034: Horisontal Stabilizer
+    4300036: 'Elevators '
+    4300038: Class Identification
+    4300040: Lifting Tanks
+    4300042: Headlights
+    4300044: Blackout Covers
+    4300046: Light Glass
+    4300048: Lights
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

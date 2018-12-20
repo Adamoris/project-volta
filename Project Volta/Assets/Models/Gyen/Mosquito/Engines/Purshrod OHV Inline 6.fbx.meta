@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: a63d9963e196fcc49bb4217b8e24851f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Area
+    100002: Area.001
+    100004: Area.002
+    100006: Area.003
+    100008: Carburetors
+    100010: Cooling Fan
+    100012: Cooling System
+    100014: Electrics
+    100016: Engine Block
+    100018: Engine Mount
+    100020: Exauhst manifold
+    100022: Fan Belt
+    100024: Gearbox
+    100026: Intake Manifold
+    100028: Propeller
+    100030: //RootNode
+    400000: Area
+    400002: Area.001
+    400004: Area.002
+    400006: Area.003
+    400008: Carburetors
+    400010: Cooling Fan
+    400012: Cooling System
+    400014: Electrics
+    400016: Engine Block
+    400018: Engine Mount
+    400020: Exauhst manifold
+    400022: Fan Belt
+    400024: Gearbox
+    400026: Intake Manifold
+    400028: Propeller
+    400030: //RootNode
+    2100000: No Name
+    2300000: Carburetors
+    2300002: Cooling Fan
+    2300004: Cooling System
+    2300006: Electrics
+    2300008: Engine Block
+    2300010: Engine Mount
+    2300012: Exauhst manifold
+    2300014: Fan Belt
+    2300016: Gearbox
+    2300018: Intake Manifold
+    2300020: Propeller
+    3300000: Carburetors
+    3300002: Cooling Fan
+    3300004: Cooling System
+    3300006: Electrics
+    3300008: Engine Block
+    3300010: Engine Mount
+    3300012: Exauhst manifold
+    3300014: Fan Belt
+    3300016: Gearbox
+    3300018: Intake Manifold
+    3300020: Propeller
+    4300000: Cooling Fan
+    4300002: Electrics
+    4300004: Carburetors
+    4300006: Engine Block
+    4300008: Fan Belt
+    4300010: Gearbox
+    4300012: Cooling System
+    4300014: Exauhst manifold
+    4300016: Intake Manifold
+    4300018: Propeller
+    4300020: Engine Mount
+    10800000: Area
+    10800002: Area.001
+    10800004: Area.002
+    10800006: Area.003
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
