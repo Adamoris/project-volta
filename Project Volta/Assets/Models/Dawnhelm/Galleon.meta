@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Project Volta/Assets/Models/Dawnhelm/Galleon.meta
 guid: 854fbbf2522a2fd46aa5bc3590843b52
+=======
+guid: d7252fed3650a467693342d6307b03a3
+>>>>>>> master:Project Volta/Assets/Models/Dawnhelm/Airships.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
