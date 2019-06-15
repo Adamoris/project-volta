@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: f32b96a584181fa46bebbec552606490
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Concrete
+    100004: Truss
+    100006: Cylinder
+    100008: Cylinder_001
+    100010: Concrete_Structure
+    100012: Supports
+    100014: Cube
+    100016: Cube_001
+    100018: Cube_002
+    100020: Gantry_Crane
+    100022: Gantry_Crane_001
+    100024: Winch
+    100026: Winch_001
+    100028: Winch_002
+    100030: Winch_003
+    100032: Gantry_Crane_1
+    100034: Gantry_Crane_2
+    100036: Platforms
+    100038: Spotlights
+    400000: //RootNode
+    400002: Concrete
+    400004: Truss
+    400006: Cylinder
+    400008: Cylinder_001
+    400010: Concrete_Structure
+    400012: Supports
+    400014: Cube
+    400016: Cube_001
+    400018: Cube_002
+    400020: Gantry_Crane
+    400022: Gantry_Crane_001
+    400024: Winch
+    400026: Winch_001
+    400028: Winch_002
+    400030: Winch_003
+    400032: Gantry_Crane_1
+    400034: Gantry_Crane_2
+    400036: Platforms
+    400038: Spotlights
+    2100000: Material
+    2100002: unnamed
+    2100004: None__palitra_jpg
+    2100006: None__palitra_jpg_001
+    2100008: None__palitra_jpg_002
+    2100010: None__palitra_jpg_003
+    2100012: None__palitra_jpg_005
+    2100014: None__palitra_jpg_004
+    2100016: None__palitra_jpg_021
+    2100018: None__palitra_jpg_020
+    2100020: None__palitra_jpg_019
+    2100022: None__palitra_jpg_018
+    2100024: None__palitra_jpg_017
+    2100026: None__palitra_jpg_016
+    2100028: None__palitra_jpg_015
+    2100030: None__palitra_jpg_014
+    2100032: None__palitra_jpg_007
+    2100034: None__palitra_jpg_009
+    2100036: None__palitra_jpg_008
+    2100038: None__palitra_jpg_011
+    2100040: None__palitra_jpg_010
+    2100042: None__palitra_jpg_013
+    2100044: None__palitra_jpg_012
+    2300000: //RootNode
+    2300002: Concrete
+    2300004: Truss
+    2300006: Cylinder
+    2300008: Cylinder_001
+    2300010: Concrete_Structure
+    2300012: Supports
+    2300014: Cube
+    2300016: Cube_001
+    2300018: Cube_002
+    2300020: Gantry_Crane
+    2300022: Gantry_Crane_001
+    2300024: Winch
+    2300026: Winch_001
+    2300028: Winch_002
+    2300030: Winch_003
+    2300032: Gantry_Crane_1
+    2300034: Gantry_Crane_2
+    2300036: Platforms
+    2300038: Spotlights
+    3300000: //RootNode
+    3300002: Concrete
+    3300004: Truss
+    3300006: Cylinder
+    3300008: Cylinder_001
+    3300010: Concrete_Structure
+    3300012: Supports
+    3300014: Cube
+    3300016: Cube_001
+    3300018: Cube_002
+    3300020: Gantry_Crane
+    3300022: Gantry_Crane_001
+    3300024: Winch
+    3300026: Winch_001
+    3300028: Winch_002
+    3300030: Winch_003
+    3300032: Gantry_Crane_1
+    3300034: Gantry_Crane_2
+    3300036: Platforms
+    3300038: Spotlights
+    4300000: Cube
+    4300002: Concrete
+    4300004: Truss
+    4300006: Cylinder
+    4300008: Cylinder_001
+    4300010: Concrete_Structure
+    4300012: Supports
+    4300014: Cube_001
+    4300016: Winch
+    4300018: Gantry_Crane
+    4300020: Cube_002
+    4300022: Winch_001
+    4300024: Gantry_Crane_001
+    4300026: Winch_003
+    4300028: Winch_002
+    4300030: Gantry_Crane_1
+    4300032: Platforms
+    4300034: Gantry_Crane_2
+    4300036: Spotlights
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 10
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

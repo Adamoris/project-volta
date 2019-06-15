@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: a5debde963c3d1f4eb3439544eca9b76
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Antenna
+    100002: //RootNode
+    100004: 'Elevators '
+    100006: Headlights
+    100008: Horns
+    100010: Hull
+    100012: Left Rudder
+    100014: Rear Left Propeller
+    100016: Rear Right Propeller
+    100018: Right Rudder
+    100020: Stabilizers
+    100022: Windows
+    100024: Air Intakes
+    400000: Antenna
+    400002: //RootNode
+    400004: 'Elevators '
+    400006: Headlights
+    400008: Horns
+    400010: Hull
+    400012: Left Rudder
+    400014: Rear Left Propeller
+    400016: Rear Right Propeller
+    400018: Right Rudder
+    400020: Stabilizers
+    400022: Windows
+    400024: Air Intakes
+    2100000: No Name
+    2300000: Antenna
+    2300002: 'Elevators '
+    2300004: Headlights
+    2300006: Horns
+    2300008: Hull
+    2300010: Left Rudder
+    2300012: Rear Left Propeller
+    2300014: Rear Right Propeller
+    2300016: Right Rudder
+    2300018: Stabilizers
+    2300020: Windows
+    2300022: Air Intakes
+    3300000: Antenna
+    3300002: 'Elevators '
+    3300004: Headlights
+    3300006: Horns
+    3300008: Hull
+    3300010: Left Rudder
+    3300012: Rear Left Propeller
+    3300014: Rear Right Propeller
+    3300016: Right Rudder
+    3300018: Stabilizers
+    3300020: Windows
+    3300022: Air Intakes
+    4300000: Windows
+    4300002: 'Elevators '
+    4300004: Left Rudder
+    4300006: Hull
+    4300008: Stabilizers
+    4300010: Rear Left Propeller
+    4300012: Rear Right Propeller
+    4300014: Right Rudder
+    4300016: Headlights
+    4300018: Antenna
+    4300020: Horns
+    4300022: Air Intakes
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
